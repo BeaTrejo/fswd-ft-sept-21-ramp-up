@@ -114,3 +114,5 @@ _`Coming soon...`_
 Cualquier otro extra que se te ocurra será bienvenido :blush: ¡A por ello!
 
 ![img](../assets/html/htmlcss.jpg)
+
+ **Portfolio Bea:**  https://beatrejo.github.io/portfolioBea/
